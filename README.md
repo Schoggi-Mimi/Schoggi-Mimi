@@ -24,7 +24,7 @@ me = AboutMe()
 me.say_hi()
 ```
 
-<a href="https://www.github.com/Schoggi-Mimi" target="_blank" rel="noreferrer"><img
+<a href="https://www.github.com/Schoggi-Mimi" target="_blank" rel="noreferrer" align="right"><img
 src="https://img.shields.io/github/followers/Schoggi-Mimi?logo=github&style=for-the-badge&color=14b8a6&labelColor=1c1917" /></a>
 
 ### Skills
@@ -34,7 +34,7 @@ src="https://img.shields.io/github/followers/Schoggi-Mimi?logo=github&style=for-
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
-<img src = 'https://github.com/Schoggi-Mimi/Schoggi-Mimi/tree/main/images/more.svg' width='30'/>
+<img src = 'https://github.com/Schoggi-Mimi/Schoggi-Mimi/blob/master/images/more.svg' width='30'/>
 </p>
 
 
