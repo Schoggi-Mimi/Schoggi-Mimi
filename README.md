@@ -1,4 +1,4 @@
- ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) Welcome to my humble abode! []: # Path: README.md
+ ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) Welcome to my humble abode!
 ============================================================================================================================
 
 Take a look at my repositories and feel free to contact me if you have any questions. I am always happy to help.
@@ -12,12 +12,9 @@ class AboutMe(object):
 
     def __init__(self):
         self.name = "Choekyel Nyungmartsang"
-        self.role = "Student"
+        self.role = "Student, B.Sc. in Artificial Intelligence and Machine Learning"
         self.location = "Zurich, Switzerland"
         self.language_spoken = ["de_DE", "en_US, fr_FR"]
-
-    def say_hi(self):
-        print("Thanks for dropping by, hope you find some of my work interesting.")
 
     def getKnowledge(self):
         technologies = {
@@ -44,7 +41,6 @@ class AboutMe(object):
 
 
 me = AboutMe()
-me.say_hi()
 ```
 
 ### Skills
@@ -54,14 +50,14 @@ me.say_hi()
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
-<a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://github.com/Schoggi-Mimi/Schoggi-Mimi/blob/master/images/more.svg" width="36" height="36" alt="More to come" /></a>
+<a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/Schoggi-Mimi/Schoggi-Mimi/main/images/more.svg" width="36" height="36" alt="More to come" /></a>
 </p>
 
 
 ### Socials
 
 <p align="left"> <a href="https://www.github.com/Schoggi-Mimi" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/choekyelnyungmartsang" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
-<a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://github.com/Schoggi-Mimi/Schoggi-Mimi/tree/main/images/python.svg" width="36" height="36" alt="More to come" /></a>
+<img src = 'https://raw.githubusercontent.com/Schoggi-Mimi/Schoggi-Mimi/main/images/more.svg' width='30'/>
 </p>
 
 <details>
