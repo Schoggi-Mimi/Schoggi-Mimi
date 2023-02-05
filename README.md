@@ -1,7 +1,8 @@
  ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) Welcome to my humble abode!
 ============================================================================================================================
 
-Take a look at my repositories and feel free to contact me if you have any questions. I am always happy to help.
+Take a look at my repositories and feel free to contact me if you have any questions. 
+I am always happy to help.
 --------
 
 ```python
