@@ -52,14 +52,15 @@ me = AboutMe()
 <a href="https://html.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/Schoggi-Mimi/Schoggi-Mimi/main/images/html5.svg" width="36" height="36" alt="Figma" /></a>
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/Schoggi-Mimi/Schoggi-Mimi/main/images/figma.svg" width="36" height="36" alt="Figma" /></a>
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/Schoggi-Mimi/Schoggi-Mimi/main/images/git.svg" width="36" height="36" alt="Git" /></a>
-<img src = 'https://raw.githubusercontent.com/Schoggi-Mimi/Schoggi-Mimi/main/images/more.svg' width='10'/>
+<a href="#"><img src = 'https://raw.githubusercontent.com/Schoggi-Mimi/Schoggi-Mimi/main/images/more.svg' width='15'/></a>
 </p>
 
 
 ### Socials
 
-<p align="left"> <a href="https://www.github.com/Schoggi-Mimi" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/choekyelnyungmartsang" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/Schoggi-Mimi/Schoggi-Mimi/main/images/linkedin.svg" width="32" height="32" /></a>
-<img src = 'https://raw.githubusercontent.com/Schoggi-Mimi/Schoggi-Mimi/main/images/more.svg' width='20'/>
+<p align="left"> 
+<a href="https://www.github.com/Schoggi-Mimi" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/choekyelnyungmartsang" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/Schoggi-Mimi/Schoggi-Mimi/main/images/linkedin.svg" width="32" height="32" /></a>
+<a href="#"><img src = 'https://raw.githubusercontent.com/Schoggi-Mimi/Schoggi-Mimi/main/images/more.svg' width='15'/></a>
 </p>
 
 <details>
