@@ -24,9 +24,10 @@ me = AboutMe()
 me.say_hi()
 ```
 
-<a href="https://www.github.com/Schoggi-Mimi" target="_blank" rel="noreferrer" align="right"><img
+<p align="right">
+<a href="https://www.github.com/Schoggi-Mimi" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/Schoggi-Mimi?logo=github&style=for-the-badge&color=14b8a6&labelColor=1c1917" /></a>
-
+</p>
 ### Skills
 
 
@@ -34,13 +35,15 @@ src="https://img.shields.io/github/followers/Schoggi-Mimi?logo=github&style=for-
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
-<img src = 'https://github.com/Schoggi-Mimi/Schoggi-Mimi/blob/master/images/more.svg' width='30'/>
+<a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://github.com/Schoggi-Mimi/Schoggi-Mimi/blob/master/images/more.svg" width="36" height="36" alt="More to come" /></a>
 </p>
 
 
 ### Socials
 
-<p align="left"> <a href="https://www.github.com/Schoggi-Mimi" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/choekyelnyungmartsang" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
+<p align="left"> <a href="https://www.github.com/Schoggi-Mimi" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/choekyelnyungmartsang" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
+<a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://github.com/Schoggi-Mimi/Schoggi-Mimi/tree/main/images/python.svg" width="36" height="36" alt="More to come" /></a>
+</p>
 
 <details>
 <summary>⚡️ Badges</summary>
