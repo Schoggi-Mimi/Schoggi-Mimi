@@ -1,8 +1,8 @@
- ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)Take a look at my repositories and feel free to contact me if you have any questions. I am always happy to help.
+ ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) Welcome to my humble abode! []: # Path: README.md
 ============================================================================================================================
 
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=Schoggi-Mimi.Schoggi-Mimi)
-[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://github.com/ellerbrock/open-source-badge/)
+Take a look at my repositories and feel free to contact me if you have any questions. I am always happy to help.
+--------
 
 ```python
 #!/usr/bin/python
@@ -19,15 +19,34 @@ class AboutMe(object):
     def say_hi(self):
         print("Thanks for dropping by, hope you find some of my work interesting.")
 
+    def getKnowledge(self):
+        technologies = {
+            'languages': ['Python', 'SQL', 'HTML', 'CSS', 'JavaScript'],
+            'frameworks': [...],
+            'databases': ['MySQL'],
+            'tools': ['Git', 'GitHub', 'Figma', 'VSCode', 'PyCharm', 'Anaconda'],
+        }
+        other = {
+            'hobbies': ['Learning new things', 'Challenging others in their forte'],
+            'interests': ['Data Science', 'Machine Learning', 'Web Development', 'Game Development'],
+            'learning': ['Java', 'React', 'C++', 'C#', 'Unity'],
+        }
+        return technologies, other
+    
+    def getStrengths(self):
+        strengths = {
+            'problem_solving': ['Analytical', 'Logical', 'Creative'],
+            'teamwork': ['Collaborative', 'Responsible', 'Dedicated'],
+            'communication': ['Clear', 'Concise', 'Empathetic'],
+            'leadership': ['Motivational', 'Inspirational', 'Organized'],
+        }
+        return strengths
+
 
 me = AboutMe()
 me.say_hi()
 ```
 
-<p align="right">
-<a href="https://www.github.com/Schoggi-Mimi" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/Schoggi-Mimi?logo=github&style=for-the-badge&color=14b8a6&labelColor=1c1917" /></a>
-</p>
 ### Skills
 
 
