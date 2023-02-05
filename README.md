@@ -84,4 +84,6 @@ me = AboutMe()
 <div width="100%" align="center"><a href="https://github.com/Schoggi-Mimi/dotfiles" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Schoggi-Mimi&repo=dotfiles&title_color=f97316&text_color=ffffff&icon_color=14b8a6&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/Schoggi-Mimi/RSA-Cipher" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Schoggi-Mimi&repo=RSA-Cipher&title_color=f97316&text_color=ffffff&icon_color=14b8a6&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
 </details>
 If you have any suggestions to this README, feel free to pull up a request. And if you liked it, go ahead and use it for yourself.(P.S. Star it too!!🐒)
+<p align="center"> 
 <img src="https://raw.githubusercontent.com/Schoggi-Mimi/Schoggi-Mimi/main/images/messagif.gif" alt="Here is a little joke!">
+</p>
