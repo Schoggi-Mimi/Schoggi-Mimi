@@ -46,7 +46,6 @@ me = AboutMe()
 
 ### Skills
 
-
 <p align="left">
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/Schoggi-Mimi/Schoggi-Mimi/main/images/python.svg" width="36" height="36" alt="Python" /></a>
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/Schoggi-Mimi/Schoggi-Mimi/main/images/mysql.svg" width="36" height="36" alt="MySQL" /></a>
@@ -56,6 +55,13 @@ me = AboutMe()
 <a href="#"><img src = 'https://raw.githubusercontent.com/Schoggi-Mimi/Schoggi-Mimi/main/images/more.svg' width='15'/></a>
 </p>
 
+### Tools
+
+<p align="left">
+<a href="https://code.visualstudio.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/Schoggi-Mimi/Schoggi-Mimi/main/images/vscode.svg" width="36" height="36" alt="Python" /></a>
+<a href="https://jupyter.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/Schoggi-Mimi/Schoggi-Mimi/main/images/jupyter.svg" width="36" height="36" alt="MySQL" /></a>
+<a href="#"><img src = 'https://raw.githubusercontent.com/Schoggi-Mimi/Schoggi-Mimi/main/images/more.svg' width='15'/></a>
+</p>
 
 ### Socials
 
