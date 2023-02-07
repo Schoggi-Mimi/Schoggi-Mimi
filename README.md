@@ -59,7 +59,7 @@ me = AboutMe()
 
 <p align="left">
 <a href="https://code.visualstudio.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/Schoggi-Mimi/Schoggi-Mimi/main/images/vscode.svg" width="36" height="36" alt="Python" /></a>
-<a href="https://jupyter.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/Schoggi-Mimi/Schoggi-Mimi/main/images/jupyter.svg" width="36" height="36" alt="MySQL" /></a>
+<a href="https://jupyter.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/Schoggi-Mimi/Schoggi-Mimi/main/images/jupyter1.svg" width="36" height="36" alt="MySQL" /></a>
 <a href="#"><img src = 'https://raw.githubusercontent.com/Schoggi-Mimi/Schoggi-Mimi/main/images/more.svg' width='15'/></a>
 </p>
 
