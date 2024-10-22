@@ -12,8 +12,8 @@ I am always happy to help.
 class AboutMe(object):
 
     def __init__(self):
-        self.name = "Choekyel Nyungmartsang"
-        self.location = "Zurich, Switzerland"
+        self.name = "Schoggi Mimi"
+        # self.location = "Switzerland"
 
 me = AboutMe()
 ```
